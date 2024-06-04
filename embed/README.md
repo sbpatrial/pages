@@ -2,7 +2,7 @@
 This example contains the sample SBPA project which interacts with embed tagged object.
 
 # Instructions:
-* Project archive (MTAR) can be downloaded from ![here](https://raw.githubusercontent.com/sbpatrial/pages/main/embed/EmbedTagProject.mtar).
+* Project archive (MTAR) can be downloaded from ![here](https://github.com/sbpatrial/pages/raw/main/embed/EmbedTagProject.mtar).
 * After that you can import the project as per this ![instruction](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/importing-project) into your SBPA tenant.
 * The project contains one automation: *MainAutomation* and one UIAutomation type application: *chrome*
 * For the *popupScreen*, please do not distinguash the screen with *Name*. For other criteria settings, you can check them from the project directly.
