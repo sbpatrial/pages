@@ -3,8 +3,13 @@
 <head>
     <title>PDF Embed</title>
 </head>
+<script>
+    function closeWindow() {
+        window.close();
+    }
+</script>
 <body>
-
+<button onclick="closeWindow()">Close Window</button>
 <h1>My Sample PDF</h1>
 <p>Here is a sample PDF embedded:</p>
 <object data="sample.pdf" type="application/pdf" width="700px" height="700px">
